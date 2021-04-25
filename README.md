@@ -1,2 +1,2 @@
 # migrator-db
-Module for create table automatically
+Module for creates table of database automatically
